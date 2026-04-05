@@ -1,0 +1,3 @@
+# Place AnnotationPlatform.json here after running:
+# npx hardhat compile
+# cp artifacts/contracts/AnnotationPlatform.sol/AnnotationPlatform.json backend/app/abi/
