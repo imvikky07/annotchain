@@ -17,6 +17,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
+        "https://annotchain.vercel.app",
         "http://localhost:3000",
         # Add your Vercel URL here after deployment:
         # "https://your-app.vercel.app",
